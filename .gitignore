@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+personal_portfolio.csv
+my_private_data.csv
+
+portfolio_dashboard*.xlsx
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
