@@ -27,7 +27,7 @@ The system automates price retrieval, portfolio performance calculation, and exp
 
 1. **Data Loading**
 
-   * On startup, the program loads existing portfolio data from `portfolio_v10.csv` (if available).
+   * On startup, the program loads existing portfolio data from `portfolio_tracker.csv` (if available).
 
 2. **User Interaction (Main Menu)**
 
@@ -54,7 +54,7 @@ The system automates price retrieval, portfolio performance calculation, and exp
 portfolio_tracker/
 │
 ├── portfolio_tracker.py      # Main application script
-├── portfolio_v10.csv         # Saved portfolio data (auto-created)
+├── portfolio_tracker.csv     # Saved portfolio data (auto-created)
 ├── portfolio_dashboard.xlsx  # Exported Excel dashboard (auto-generated)
 └── README.md                 # Project documentation
 ```
